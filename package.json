@@ -7,7 +7,7 @@
     "buffer-equals": "^1.0.3",
     "connections": "^1.4.2",
     "debug": "^3.1.0",
-    "discovery-channel": "^5.5.1",
+    "discovery-channel": "github:martinheidegger/discovery-channel#541315fc851cf3375af3c2ab2edcff643d37a21d",
     "length-prefixed-message": "^3.0.3",
     "pump": "^3.0.0",
     "to-buffer": "^1.0.1"
